@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 - :orange_book: Focusing on Swift & Java
 - :hammer: Creator of applications and frameworks
-- :ram: opsli of ObjCCN
+- :ram: Founder of OPSLI
 - :meat_on_bone: Meat lover
