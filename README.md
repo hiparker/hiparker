@@ -4,7 +4,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Elastic & Java
+- :orange_book: Focusing on Elastic & Java & Golang
 - :hammer: Creator of applications and frameworks
 - :ram: Founder of OPSLI
 - :meat_on_bone: Meat lover
